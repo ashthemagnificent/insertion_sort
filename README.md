@@ -1,0 +1,1 @@
+# patika.dev.verianalizi.insertionsortodevi
